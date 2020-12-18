@@ -1,4 +1,6 @@
-# Classification des Tweets 
+# Classification des Tweets
+
+[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/SabrineKassdallah/Classification-des-Tweets/master
 
 ###  Introduction
 
@@ -70,4 +72,3 @@ Github : https://github.com/SabrineKassdallah
 
 Mail : sabrinekasdallah2017@gmail.com
 
- 
