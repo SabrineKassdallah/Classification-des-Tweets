@@ -1,6 +1,7 @@
 # Classification des Tweets
 
-[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/SabrineKassdallah/Classification-des-Tweets/master
+[Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SabrineKassdallah/Classification-des-Tweets/master?filepath=Tweets_Classification.ipynb)
+
 
 ###  Introduction
 
